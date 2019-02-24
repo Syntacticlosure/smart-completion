@@ -1,4 +1,4 @@
-*.rkt
+*.bak
 compiled/
 doc/
 *.[0-9]
