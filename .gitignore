@@ -1,0 +1,4 @@
+*.rkt
+compiled/
+doc/
+*.[0-9]
